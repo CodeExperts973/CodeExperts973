@@ -19,7 +19,7 @@ class odooPartner:
         our.language_spoken = ["ar_BH", "en_US"]
         our.slogan = "Coding The Way To Your Sucess"
 
-    def say_hi(self):
+    def say_hi(us):
         print("Thanks for dropping by, hope you find our work interesting.")
         print("Feel free to connect with us on our social media.")
 
