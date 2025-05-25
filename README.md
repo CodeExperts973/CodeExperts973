@@ -39,6 +39,9 @@ we.say_hi()
 - **Business Process Automation**: Automating repetitive tasks to improve efficiency and reduce errors.
 
 ---
+## 💼 Our Story
+
+Founded by business professionals who recognized the challenges of implementing effective software solutions, Code Experts was established to bridge the gap between business needs and technical execution. Our journey began with a desire to find simple, workable solutions without complicating parameters, leading us to embrace open-source ERP systems. Today, we are proud to be certified partners, delivering solutions that truly understand and cater to business workflows.
 
 ## 🌐 Connect with Us
 
