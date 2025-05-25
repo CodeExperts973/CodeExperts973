@@ -1,5 +1,7 @@
 # 👋 Welcome to Code Experts IT Solutions Co. W.L.L.
 
+![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif.gif)
+
 **"Coding the Way to Your Success"**
 
 🚀 At Code Experts, we specialize in delivering custom ERP and SEO solutions designed to enhance efficiency, boost profitability, and increase visibility for businesses. Our team combines deep coding expertise with a passion for innovation to create tailored solutions that address unique business challenges.
