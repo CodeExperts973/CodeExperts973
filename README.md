@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Welcome to Our Profile" />
+  "Welcome to Our Page" 
 </h1>
 
 ![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop%20(1).gif)
