@@ -2,20 +2,20 @@
 
 ![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop%20(1).gif)
 
-**"Coding the Way to Your Success"**
 
-class odooPartner:
+## class odooPartner:
 
-    def __init__(self):
-        self.name = "Code Experts"
-        self.role = "Software Engineer"
-        self.language_spoken = ["ar_BH", "en_US"]
+    def __init__(us):
+        our.name = "Code Experts"
+        our.role = "Software Engineer"
+        our.language_spoken = ["ar_BH", "en_US"]
+        our.slogan = "Coding The Way To Your Sucess"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of our work interesting.")
+        print("Thanks for dropping by, hope you find our work interesting.")
         print("Feel free to connect with us on our social media.")
 
-us.say_hi()
+we.say_hi()
 
 
 ---
