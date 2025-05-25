@@ -25,7 +25,7 @@ Founded by business professionals who recognized the challenges of implementing 
 - 📞 Phone: +973 1722 4488
 - 📧 Email: hello@code-experts.co
 - 🌍 Website: www.code-experts.co
-- 📸 Instagram: ^[[@codexperts.co]
+- 📸 Instagram: [@codexperts.co](https://www.instagram.com/codexperts.co/)
 - 💼 LinkedIn: [Code Experts](https://www.linkedin.com/company/code-experts)
 
 ## ☕ Our Culture
