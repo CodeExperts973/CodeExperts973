@@ -6,7 +6,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-## class odooPartner:
+class odooPartner:
 
     def __init__(us):
         our.name = "Code Experts"
