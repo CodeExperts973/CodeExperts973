@@ -10,7 +10,7 @@ class odooPartner:
 
     def __init__(us):
         our.name = "Code Experts"
-        our.role = "Software Engineer"
+        our.role = "Certified Odoo Partner"
         our.language_spoken = ["ar_BH", "en_US"]
         our.slogan = "Coding The Way To Your Sucess"
 
@@ -43,6 +43,7 @@ Founded by business professionals who recognized the challenges of implementing 
 - 🌍 Website: www.code-experts.co
 - 📸 Instagram: [@codexperts.co](https://www.instagram.com/codexperts.co/)
 - 💼 LinkedIn: [Code Experts](https://www.linkedin.com/company/code-experts)
+- :mortar_board: Odoo Partner Page: [Odoo Partner](https://www.odoo.com/partners/code-experts-it-solutions-co-w-l-l-10570065?country_id=23)
 
 ## ☕ Our Culture
 
