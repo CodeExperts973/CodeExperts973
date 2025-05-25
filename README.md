@@ -52,11 +52,12 @@ Founded by business professionals who recognized the challenges of implementing 
 - 💼 LinkedIn: [Code Experts](https://www.linkedin.com/company/code-experts)
 - :mortar_board: Odoo Partner Page: [Odoo Partner](https://www.odoo.com/partners/code-experts-it-solutions-co-w-l-l-10570065?country_id=23)
 
-## ☕ Our Customers
+## ☕ Some of Our Customers
 
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/Aqua%20Pro%20Aquarium.jpg)
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/B-Gourmet%20Holding%20W.L.L..jpg)
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/El%20Azzab%20Group.jpg)
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/RoboBay.png)
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/The%20Nut%20Shelf.jpg)
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/iHome%20Concepts.png)
+- [Aqua Pro Aquairum](https://www.aquaprobh.com/): Luxury aquarium company focused on built-to-order fresh water, reef, and jellyfish aquariums. Provides consultations with interior designers, architects and engineers for large-scale public & commercial aquariums
+- [B Gourmet Holding](https://www.odoo.com/customers/b-gourmet-holding-w-l-l-12729577): B Gourmet Holding is a holding company of multiple Food & Beverage businesses. Under the B Gourmet umbrella are 5 branches and they also offer catering services.
+- [El Azzab Group](http://www.elazzabgroup.com/): Pioneers in business office space rentals, business license formation, commercial registration amendments and various consulting services.
+- [RoboBay](https://robo-bay.com/): Robobay is a distributor for state-of-the-art robot vacuums and smart home products. Part of its sales channels include to distributors as well as to consumers using eCommerce methods for local and international consumers/distributors.
+- [The Nut Shelf](https://www.thenutshelf.com/): The Nut Shelf is a trading company in the Food and Beverage Industry that targets health conscious individuals that try Keto diets and healthier food alternatives. Part of Nut Shelf business activities include manufacturing that includes packaging food items such as American Almond flour. Other activities include a Bread Bakery. The Nut Shelf trades all finished goods to both customers as well as suppliers and wholesalers.
+
+- [iHome Concepts](https://www.ihome-concept.com/): iHome Concept (iHome) is a factory with professional Bahraini management that provides carpentry services being an all-in-one destination that delivers the highest quality standards. iHome takes pride in its creative skills, excellent designs and professionalism turning client designs into reality. 
