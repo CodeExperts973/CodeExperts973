@@ -1,10 +1,27 @@
-# 👋 Welcome to Code Experts IT Solutions Co. W.L.L.
+# 👋 Welcome to Code Experts
 
 ![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop%20(1).gif)
 
 **"Coding the Way to Your Success"**
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-🚀 At Code Experts, we specialize in delivering custom ERP and SEO solutions designed to enhance efficiency, boost profitability, and increase visibility for businesses. Our team combines deep coding expertise with a passion for innovation to create tailored solutions that address unique business challenges.
+
+class odooPartner:
+
+    def __init__(self):
+        self.name = "Code Experts"
+        self.role = "Software Engineer"
+        self.language_spoken = ["ar_BH", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of our work interesting.")
+        print("Feel free to connect with us on our social media.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+
 
 ---
 
