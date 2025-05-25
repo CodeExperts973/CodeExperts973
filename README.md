@@ -30,4 +30,4 @@ Founded by business professionals who recognized the challenges of implementing 
 
 ## ☕ Our Culture
 
-^[At Code Experts, our day starts with coffee—a ritual that fuels our focus and creativity. We believe in delivering perfectly crafted solutions with a blend of innovation, precision, and a dash of fun.]
+At Code Experts, our day starts with coffee—a ritual that fuels our focus and creativity. We believe in delivering perfectly crafted solutions with a blend of innovation, precision, and a dash of fun.
