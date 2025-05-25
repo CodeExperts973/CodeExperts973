@@ -45,6 +45,6 @@ Founded by business professionals who recognized the challenges of implementing 
 - 💼 LinkedIn: [Code Experts](https://www.linkedin.com/company/code-experts)
 - :mortar_board: Odoo Partner Page: [Odoo Partner](https://www.odoo.com/partners/code-experts-it-solutions-co-w-l-l-10570065?country_id=23)
 
-## ☕ Our Culture
+## ☕ Our Customers
 
-At Code Experts, our day starts with coffee, a ritual that fuels our focus and creativity. We believe in delivering perfectly crafted solutions with a blend of innovation, precision, and a dash of fun.
+![](https://github.com/CodeExperts973/CodeExperts973/blob/main/Aqua%20Pro%20Aquarium.jpg)
