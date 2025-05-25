@@ -22,11 +22,11 @@
 Founded by business professionals who recognized the challenges of implementing effective software solutions, Code Experts was established to bridge the gap between business needs and technical execution. Our journey began with a desire to find simple, workable solutions without complicating parameters, leading us to embrace open-source ERP systems. Today, we are proud to be certified partners, delivering solutions that truly understand and cater to business workflows.
 ## 🌐 Connect with Us
 
-- 📞 Phone: ^[+973 1722 4488]
-- 📧 Email: ^[hello@code-experts.co]
-- 🌍 Website: ^[[www.code-experts.co]
+- 📞 Phone: +973 1722 4488
+- 📧 Email: hello@code-experts.co
+- 🌍 Website: www.code-experts.co
 - 📸 Instagram: ^[[@codexperts.co]
-- 💼 LinkedIn: ^[[Code Experts](https://www.linkedin.com/company/code-experts)
+- 💼 LinkedIn: [Code Experts](https://www.linkedin.com/company/code-experts)
 
 ## ☕ Our Culture
 
