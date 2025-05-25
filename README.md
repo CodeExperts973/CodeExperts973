@@ -3,9 +3,6 @@
 ![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop%20(1).gif)
 
 **"Coding the Way to Your Success"**
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 
 class odooPartner:
 
@@ -18,9 +15,7 @@ class odooPartner:
         print("Thanks for dropping by, hope you find some of our work interesting.")
         print("Feel free to connect with us on our social media.")
 
-
-me = SoftwareEngineer()
-me.say_hi()
+us.say_hi()
 
 
 ---
