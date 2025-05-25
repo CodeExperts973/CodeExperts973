@@ -1,6 +1,8 @@
 # 👋 Welcome to Code Experts
 
 ![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop%20(1).gif)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 ```python
 #!/usr/bin/python
