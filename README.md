@@ -1,6 +1,6 @@
 # 👋 Welcome to Code Experts IT Solutions Co. W.L.L.
 
-![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop.gif)
+![](https://github.com/CodeExperts973/CodeExperts973/blob/main/CodeExpertsGif-ezgif.com-crop%20(1).gif)
 
 **"Coding the Way to Your Success"**
 
