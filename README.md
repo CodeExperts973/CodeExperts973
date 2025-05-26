@@ -47,7 +47,6 @@ we.say_hi()
 - 📧 Email: hello@code-experts.co
 - 🌍 Website: www.code-experts.co
 - 📸 Instagram: [@codexperts.co](https://www.instagram.com/codexperts.co/)
-- 💼 LinkedIn: [Code Experts](https://www.linkedin.com/company/code-experts)
 - :mortar_board: Odoo Partner Page: [Odoo Partner](https://www.odoo.com/partners/code-experts-it-solutions-co-w-l-l-10570065?country_id=23)
 
 ## ☕ Some of Our Customers
