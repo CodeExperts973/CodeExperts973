@@ -7,7 +7,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codeexperts973.codeexperts973)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
-
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/codexperts.co/)
 
 
 ```python
