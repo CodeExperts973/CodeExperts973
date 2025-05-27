@@ -7,7 +7,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codeexperts973.codeexperts973)
 [![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)](https://www.odoo.com/partners/code-experts-it-solutions-co-w-l-l-10570065?country_id=23)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](www.code-experts.co)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.code-experts.co/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codexperts.co/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hello@code-experts.co)
 ```python
