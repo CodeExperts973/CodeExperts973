@@ -31,13 +31,18 @@ we.say_hi()
 
 
 ---
-
 ## 🛠️ Our Expertise
+
+<img align='right' src="https://github-production-user-asset-6210df.s3.amazonaws.com/213277415/447836375-644af3c3-b2ea-45e0-b7e3-926457f8a416.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250527%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250527T085401Z&X-Amz-Expires=300&X-Amz-Signature=54ce1a418ef4b30465f4c79871dfda0e2b3ca7527139e91a25204a4658ba8db2&X-Amz-SignedHeaders=host" width="150">
+
 
 - **Custom ERP Solutions**: Streamlining business processes through tailored Enterprise Resource Planning systems.
 - **SEO Services**: Enhancing online presence and search engine rankings to drive growth.
 - **Custom Software Development**: Building bespoke software solutions to meet specific business needs.
 - **Business Process Automation**: Automating repetitive tasks to improve efficiency and reduce errors.
+
+
+
 
 ---
 
