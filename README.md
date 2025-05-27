@@ -41,8 +41,6 @@ we.say_hi()
 
 ---
 
-- 🌍 Website: www.code-experts.co
-
 ## ☕ Some of Our Customers
 - [Aqua Pro Aquairum](https://www.aquaprobh.com/): Luxury aquarium company focused on built-to-order fresh water, reef, and jellyfish aquariums. Provides consultations with interior designers, architects and engineers for large-scale public & commercial aquariums
 - [B Gourmet Holding](https://www.odoo.com/customers/b-gourmet-holding-w-l-l-12729577): B Gourmet Holding is a holding company of multiple Food & Beverage businesses. Under the B Gourmet umbrella are 5 branches and they also offer catering services.
