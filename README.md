@@ -8,7 +8,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codeexperts973.codeexperts973)
 [![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)](https://www.odoo.com/partners/code-experts-it-solutions-co-w-l-l-10570065?country_id=23)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.code-experts.co/)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
